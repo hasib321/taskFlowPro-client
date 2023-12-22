@@ -24,8 +24,8 @@ const Footer = () => {
     },
   ];
   return (
-    <div className="w-11/12 mx-auto">
-      <footer className="bg-gradient-to-r from-[#4081cb] to-[#5baba5] ">
+    <div className="bg-gradient-to-r from-[#4081cb] to-[#5baba5]">
+      <footer className=" w-11/12 mx-auto">
         <div className="text-gray-300 grid grid-cols-1 lg:grid-cols-5 md:grid-cols-2 gap-10 px-10 pt-20 ">
           <div className=" lg:col-span-2  border-r mt-5 px-3">
             <div>
