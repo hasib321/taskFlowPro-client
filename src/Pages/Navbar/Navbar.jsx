@@ -13,7 +13,7 @@ const Navbar = () => {
   //     });
   // };
   return (
-    <div className="navbar  max-w-screen-xl mx-auto px-8">
+    <div className="navbar w-11/12 mx-auto px-8">
       <div className="navbar-start z-10 ">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
